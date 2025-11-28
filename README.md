@@ -1,1 +1,1 @@
-# semantic-soft-bootstrapping
+# Semantic Soft Bootstrapping (SSB)
