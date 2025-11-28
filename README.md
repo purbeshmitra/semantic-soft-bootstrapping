@@ -23,7 +23,7 @@ Our results are shown below:
 If you find our work useful, consider citing it as:
 ```bibtex
 @article{mitra2025ssb,
-  title={Semantic Soft Bootstrapping: RL-free Training for Long Context Reasoning in LLMs},
+  title={Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning},
   author={Mitra, Purbesh and Ulukus, Sennur},
   journal={arXiv preprint arXiv:2507.02851},
   year={2025}
