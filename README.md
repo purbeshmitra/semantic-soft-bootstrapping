@@ -25,7 +25,7 @@ If you find our work useful, consider citing it as:
 @article{mitra2025ssb,
   title={Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning},
   author={Mitra, Purbesh and Ulukus, Sennur},
-  journal={arXiv preprint arXiv:2507.02851},
+  journal={arXiv preprint arXiv:},
   year={2025}
 }
 ```
