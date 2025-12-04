@@ -6,12 +6,12 @@
 
 In this work, we propose a GRPO based training method for such a system that allows to calculate the accuracy reward by rolling out trajectories and applying the reward at the first round of inference outcomes. This is depicted as following:
 <p align="center">
-  <img src="assets/ssb.png" alt="Alt Text" width="750">
+  <img src="ssb.png" alt="Alt Text" width="750">
 </p>
 
 Our results are shown below:
 <p align="center">
-  <img src="assets/ssb_results.png" alt="Alt Text" width="750">
+  <img src="ssb_results.png" alt="Alt Text" width="750">
 </p>
 
 ## Citation
