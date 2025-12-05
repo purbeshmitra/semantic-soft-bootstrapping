@@ -416,7 +416,7 @@ print("Trainable params count:", sum(p.numel() for p in student_model.parameters
 sample_batch = data_collator([student_prepared[i] for i in range(min(2, len(student_prepared)))])
 print("sample input_ids dtype/device:", sample_batch["input_ids"].dtype, sample_batch["input_ids"].device)
 print("sample teacher_logits shape/dtype:", sample_batch["teacher_logits"].shape, sample_batch["teacher_logits"].dtype)
-# Move to device like HF Trainer will
+# Move to device 
 for k, v in sample_batch.items():
     sample_batch[k] = v.to(device)
 # Forward a quick pass
