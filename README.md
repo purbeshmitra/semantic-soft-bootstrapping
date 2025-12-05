@@ -1,6 +1,6 @@
 # Semantic Soft Bootstrapping (SSB)
 
-🔗 Paper link: [Arxiv preprint](https://arxiv.org/abs/2507.02851)
+🔗 Paper link: [Arxiv preprint](https://arxiv.org/abs/2512.05105)
 
 🔗 Link to the trained model: [Hugging Face collection](https://huggingface.co/purbeshmitra/semantic-soft-bootsrapping)
 
@@ -20,7 +20,7 @@ If you find our work useful, consider citing it as:
 @article{mitra2025semantic,
   title={Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning},
   author={Mitra, Purbesh and Ulukus, Sennur},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2512.05105},
   year={2025}
 }
 ```
