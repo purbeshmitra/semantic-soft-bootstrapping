@@ -9,6 +9,7 @@
 ---
 **Goal:** teach a small LLM to solve math problems *without hints* by distilling from its own **hinted** solutions.
 
+* Generate a set of correct and incorrect responses to reasoning questions
 * **Teacher = base model with hints** (problem + correct + incorrect traces)
 * **Student = same base model, LoRA on top, no hints** (question only)
 * Training is **RL-free**: no reward model, no GRPO/PPO, just offline logit matching.
