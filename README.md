@@ -159,7 +159,7 @@ The improved reasoning behavior comes entirely from **the model distilling its o
 ### Training Dynamics
 
 <p align="center">
-  <img src="assets/training_dynamics.png" alt="Alt Text" width="750">
+  <img src="assets/training_dynamics.png" alt="Alt Text" width="500">
 </p>
 
 * Stable loss + gradient norms
