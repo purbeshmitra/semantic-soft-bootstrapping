@@ -171,6 +171,7 @@ The improved reasoning behavior comes entirely from **the model distilling its o
 * Responses, used in context
 * Variety of reasoning environments
 * Number of training examples
+* Iterations of logit generation and training
 
 🔗 Link to the [Hugging Face collection](https://huggingface.co/collections/purbeshmitra/semantic-soft-bootstrapping)
 
