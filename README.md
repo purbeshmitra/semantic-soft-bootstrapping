@@ -20,7 +20,7 @@
 ## Pipeline
 
 <p align="center">
-  <img src="assets/ssb.png" alt="Alt Text" width="750">
+  <img src="assets/ssb (1).png" alt="Alt Text" width="750">
 </p>
 
 ### 1. Generate robust teacher traces (SSB data)
